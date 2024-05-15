@@ -9,7 +9,6 @@ https://docs.google.com/document/d/1eAbX2Mph6QeGwIYAe2epdBoVC8Lv8x2HR6DDHEgojo8/
 
 Group share location on CyVerse: /iplant/home/miguelcleon/group4b
 
-#practice edit
 
 ## Our Project
 ### Species interactions under climate change
