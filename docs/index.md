@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/771059390.svg)](https://zenodo.org/doi/10.5281/zenodo.11166866)
+# Pollinating Resilient Interactions (PRI)
 
-# Team 4B
+## Resilience of pollinator interactions in the face of climate change 
+
 
 Welcome to the **Team 4B** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
@@ -8,7 +10,7 @@ Notes doc
 https://docs.google.com/document/d/1eAbX2Mph6QeGwIYAe2epdBoVC8Lv8x2HR6DDHEgojo8/edit?usp=sharing
 
 CyVerse share drive location: 
-/iplant/home/miguelcleon/group4b 
+/iplant/home/shared/iplant_esiil_summit/2024/group_04b
 
 ## Our Project
 ### Species interactions under climate change
