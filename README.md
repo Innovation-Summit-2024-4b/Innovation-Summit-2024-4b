@@ -7,7 +7,8 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 #practice edit
 
 ## Our Project
-[Provide a brief overview of your project here.
+### Species interactions under climate change
+How will shifting climate conditions alter species interactions, and what impications will these changes have for ecosystem stability? 
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
