@@ -16,7 +16,7 @@ How will shifting climate conditions alter species interactions, and what impica
 
 ## Group Members
 - Member 1: Miguel Leon
-- Member 2: Brief description
+- Member 2: Colleen Miller
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
