@@ -6,6 +6,7 @@ Welcome to the **Team 4B** repository, an integral part of ESIIL and Earth Lab's
 
 Notes doc
 https://docs.google.com/document/d/1eAbX2Mph6QeGwIYAe2epdBoVC8Lv8x2HR6DDHEgojo8/edit?usp=sharing
+
 CyVerse share drive location: 
 /iplant/home/miguelcleon/group4b 
 
