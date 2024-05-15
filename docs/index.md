@@ -4,7 +4,8 @@
 
 Welcome to the **Team 4B** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
-#practice edit
+Notes doc
+https://docs.google.com/document/d/1eAbX2Mph6QeGwIYAe2epdBoVC8Lv8x2HR6DDHEgojo8/edit?usp=sharing
 
 ## Our Project
 ### Species interactions under climate change
