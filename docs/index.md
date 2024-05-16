@@ -4,10 +4,9 @@
 ## Resilience of pollinator interactions in the face of climate change 
 
 
-Welcome to the **Team 4B** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **Pollinating Resilient Interactions** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
-Notes doc
-https://docs.google.com/document/d/1eAbX2Mph6QeGwIYAe2epdBoVC8Lv8x2HR6DDHEgojo8/edit?usp=sharing
+Google Drive Folder: https://drive.google.com/drive/folders/1LH9YAs8eZfam9B4oba-MAwjgD-MI3mQO 
 
 CyVerse share drive location: 
 /iplant/home/shared/iplant_esiil_summit/2024/group_04b
@@ -21,9 +20,13 @@ How will shifting climate conditions alter species interactions, and what impica
 
 
 ## Group Members
-- Member 1: Miguel Leon
+- Member 1: Brooke Lamonte Long-Fox
 - Member 2: Colleen Miller
-- ...
+- Member 3: Elsa Culler
+- Member 4: Pablo Moreno
+- Member 5: Miguel C Leon
+- Member 6 Yahn-Jauh Su
+- Member 7: Yu Liu
 - [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
